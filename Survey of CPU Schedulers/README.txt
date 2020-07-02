@@ -1,0 +1,1 @@
+Implements three different CPU scheduling algorithms (Round Robin, First Come First Serve, and Shortest Runtime First) and calculates which is able to most efficiently allow processes to run.
